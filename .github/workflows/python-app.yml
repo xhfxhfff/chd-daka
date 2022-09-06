@@ -4,9 +4,9 @@
 name: chd-daka
 
 on:
-  push:
-  schedule:
-    - cron: '10 23,2 * * *'
+  推：
+  时间表：
+    - cron: '2 23,2 * * *'
     
 jobs:
   build:
